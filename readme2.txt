@@ -1,0 +1,1 @@
+This code considers a simple timing-the-market strategy: buy SP500 with a fraction of total savings when the index is ?% below its trend.
